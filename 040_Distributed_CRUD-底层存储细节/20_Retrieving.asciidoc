@@ -5,7 +5,7 @@
 
 [[img-distrib-read]]
 .取回单个文档
-image::images/elas_0403.png["取回单个文档"]
+image::../images/elas_0403.png["取回单个文档"]
 
 以下是从主分片或者副本分片检索文档的步骤顺序：
 

@@ -8,7 +8,7 @@
 
 [[img-distrib-mget]]
 .使用 `mget` 取回多个文档
-image::images/elas_0405.png[“使用 `mget` 取回多个文档”]
+image::../images/elas_0405.png[“使用 `mget` 取回多个文档”]
 
 以下是使用单个 `mget` 请求取回多个文档所需的步骤顺序：
 

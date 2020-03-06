@@ -5,7 +5,7 @@
 
 [[img-distrib-write]]
 .新建、索引和删除单个文档
-image::images/elas_0402.png["新建、索引和删除单个文档"]
+image::../images/elas_0402.png["新建、索引和删除单个文档"]
 
 以下是在主副分片和任何副本分片上面 ((("primary shards", "creating, indexing, and deleting a document")))((("replica shards", "creating, indexing, and deleting a document")))
 成功新建，索引和删除文档所需要的步骤顺序：
