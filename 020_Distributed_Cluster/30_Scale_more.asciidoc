@@ -22,7 +22,7 @@ PUT /blogs/_settings
 
 [[cluster-three-nodes-two-replicas]]
 .将参数 `number_of_replicas` 调大到 2
-image::images/elas_0205.png["拥有2份副本分片3个节点的集群"]
+image::../images/elas_0205.png["拥有2份副本分片3个节点的集群"]
 
 
 [NOTE]
