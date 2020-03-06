@@ -22,7 +22,7 @@ bulk API， 如 <<img-distrib-bulk>> 所示， 允许在单个批量请求中执
 
 [[img-distrib-bulk]]
 .使用 `bulk` 修改多个文档
-image::images/elas_0406.png[“使用 `bulk` 修改多个文档”]
+image::../images/elas_0406.png[“使用 `bulk` 修改多个文档”]
 
 `bulk` API((("bulk API", "multiple document changes with")))((("documents", "multiple changes with bulk"))) 按如下步骤顺序执行：
 
