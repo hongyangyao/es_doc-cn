@@ -18,7 +18,7 @@
 
 [[img-data-lww]]
 .Consequence of no concurrency control
-image::images/elas_0301.png["Consequence of no concurrency control",width="50%",align="center"]
+image::../images/elas_0301.png["Consequence of no concurrency control",width="50%",align="center"]
 
 `web_1` 对 `stock_count` 所做的更改已经丢失，因为 `web_2` 不知道它的 `stock_count` 的拷贝已经过期。
 结果我们会认为有超过商品的实际数量的库存，因为卖给顾客的库存商品并不存在，我们将让他们非常失望。
