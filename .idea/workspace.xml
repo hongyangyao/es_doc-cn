@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9eab2877-cca4-4203-ba19-e176ebdb4c05" name="Default Changelist" comment="" />
+    <list default="true" id="9eab2877-cca4-4203-ba19-e176ebdb4c05" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/054_Query_DSL/60_Query_DSL.asciidoc" beforeDir="false" afterPath="$PROJECT_DIR$/054_Query_DSL/60_Query_DSL.asciidoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/054_Query_DSL/70_Important_clauses.asciidoc" beforeDir="false" afterPath="$PROJECT_DIR$/054_Query_DSL/70_Important_clauses.asciidoc" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,37 +13,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1866576576">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="asciidoc" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="PLAIN_TEXT" value="1" />
-        </counts>
-      </usages-collector>
-    </session>
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/054_Query_DSL/75_Combining_queries_together.asciidoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="1900">
+                <caret line="100" selection-start-line="100" selection-end-line="100" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/010_Intro/10_Installing_ES.asciidoc">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        <entry file="file://$PROJECT_DIR$/054_Query_DSL/80_Validating_queries.asciidoc">
+          <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+            <state split_layout="SECOND">
+              <first_editor relative-caret-position="626">
+                <caret line="108" selection-start-line="108" selection-end-line="108" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -50,14 +47,17 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/054_Query_DSL/60_Query_DSL.asciidoc" />
+        <option value="$PROJECT_DIR$/054_Query_DSL/70_Important_clauses.asciidoc" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="166" />
+    <option name="y" value="31" />
     <option name="width" value="1440" />
     <option name="height" value="803" />
   </component>
@@ -67,24 +67,29 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="es_doc-cn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="es_doc-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch-definitive-guide-cn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elasticsearch-definitive-guide-cn" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="es_doc-cn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="es_doc-cn" type="462c0819:PsiDirectoryNode" />
-              <item name="010_Intro" type="462c0819:PsiDirectoryNode" />
+              <item name="elasticsearch-definitive-guide-cn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elasticsearch-definitive-guide-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="054_Query_DSL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elasticsearch-definitive-guide-cn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elasticsearch-definitive-guide-cn" type="462c0819:PsiDirectoryNode" />
+              <item name="056_Sorting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -121,17 +126,19 @@
       <workItem from="1583408733807" duration="31000" />
       <workItem from="1583408801001" duration="4279000" />
       <workItem from="1583513437810" duration="335000" />
+      <workItem from="1583644407731" duration="990000" />
+      <workItem from="1583645508374" duration="3121000" />
+      <workItem from="1583648930396" duration="782000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4645000" />
+    <option name="totallyTimeSpent" value="10323000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="803" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20461869" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -146,11 +153,10 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32949308" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -161,13 +167,11 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="SciView" order="8" />
       <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Maven Projects" order="10" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/030_Data/10_Index.html" />
@@ -194,6 +198,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="33" lean-forward="true" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052_Mapping_Analysis/40_Analysis.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="766">
+            <caret line="155" selection-start-line="155" selection-end-line="155" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052_Mapping_Analysis/45_Mapping.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="3287">
+            <caret line="173" selection-start-line="173" selection-end-line="173" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/052_Mapping_Analysis/50_Complex_datatypes.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor>
+            <caret line="154" selection-start-line="154" selection-end-line="154" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/054_Query_DSL/55_Request_body_search.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="228">
+            <caret line="12" selection-start-line="12" selection-end-line="12" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/054_Query_DSL/60_Query_DSL.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="607">
+            <caret line="126" column="33" lean-forward="true" selection-start-line="126" selection-start-column="33" selection-end-line="126" selection-end-column="33" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/054_Query_DSL/65_Queries_vs_filters.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="626">
+            <caret line="47" selection-start-line="47" selection-end-line="47" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/054_Query_DSL/70_Important_clauses.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="411">
+            <caret line="116" column="8" selection-start-line="116" selection-start-column="8" selection-end-line="116" selection-end-column="8" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/054_Query_DSL/75_Combining_queries_together.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="1900">
+            <caret line="100" selection-start-line="100" selection-end-line="100" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/054_Query_DSL/80_Validating_queries.asciidoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SECOND">
+          <first_editor relative-caret-position="626">
+            <caret line="108" selection-start-line="108" selection-end-line="108" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
