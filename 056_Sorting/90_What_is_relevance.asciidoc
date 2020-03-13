@@ -30,7 +30,7 @@ Elasticsearch 的相似度算法((("Term Frequency/Inverse Document Frequency  (
 
 如果多条查询子句被合并为一条复合查询语句((("compound query clauses", "relevance score for results")))，比如 bool 查询，则每个查询子句计算得出的评分会被合并到总的相关性评分中。
 
-TIP: 我们有一️整章着眼于相关性计算和如何让其配合你的需求 <<controlling-relevance>>。
+TIP: 我们有一整章着眼于相关性计算和如何让其配合你的需求 <<controlling-relevance>>。
 
 [[explain]]
 ==== 理解评分标准
