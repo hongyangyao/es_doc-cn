@@ -23,7 +23,7 @@ GET /_search
 [[img-distrib-search]]
 .Query phase of distributed s
 .查询过程分布式搜索
-image::images/elas_0901.png["查询过程分布式搜索"]
+image::../images/elas_0901.png["查询过程分布式搜索"]
 
 查询阶段包含以下三个步骤:
 
