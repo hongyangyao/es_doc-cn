@@ -4,7 +4,7 @@ include::060_Distributed_Search/05_Query_phase.asciidoc[]
 
 include::060_Distributed_Search/10_Fetch_phase.asciidoc[]
 
-include::060_Distributed_Search/15_Search_options.asciidoc[]
+include::060_Distributed_Search/15_Search_options-查询选项，可提升性能.asciidoc[]
 
 include::060_Distributed_Search/20_Scroll.asciidoc[]
 
