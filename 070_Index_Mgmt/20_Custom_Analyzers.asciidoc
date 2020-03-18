@@ -10,13 +10,13 @@
 --
 字符过滤器 ((("character filters"))) 用来 `整理` 一个尚未被分词的字符串。例如，如果我们的文本是HTML格式的，它会包含像 `<p>` 或者 `<div>` 这样的HTML标签，这些标签是我们不想索引的。我们可以使用 {ref}/analysis-htmlstrip-charfilter.html[`html清除` 字符过滤器] 来移除掉所有的HTML标签，并且像把 `&Aacute;` 转换为相对应的Unicode字符 `Á`  这样，转换HTML实体。
 
-一个分析器可能有0个或者多个字符过滤器。
+#一个分析器可能有0个或者多个字符过滤器#。
 --
 
 分词器::
 +
 --
-一个分析器 _必须_ 有一个唯一的分词器。((("tokenizers", "in analyzers")))  分词器把字符串分解成单个词条或者词汇单元。 `标准` 分析器里使用的 {ref}/analysis-standard-tokenizer.html[`标准` 分词器]  ((("standard tokenizer"))) 把一个字符串根据单词边界分解成单个词条，并且移除掉大部分的标点符号，然而还有其他不同行为的分词器存在。
+#一个分析器 _必须_ 有一个唯一的分词器#。((("tokenizers", "in analyzers")))  分词器把字符串分解成单个词条或者词汇单元。 `标准` 分析器里使用的 {ref}/analysis-standard-tokenizer.html[`标准` 分词器]  ((("standard tokenizer"))) 把一个字符串根据单词边界分解成单个词条，并且移除掉大部分的标点符号，然而还有其他不同行为的分词器存在。
 
 例如， {ref}/analysis-keyword-tokenizer.html[`关键词` 分词器] 完整地输出 ((("keyword tokenizer"))) 接收到的同样的字符串，并不做任何分词。 {ref}/analysis-whitespace-tokenizer.html[`空格` 分词器] 只根据空格分割文本 ((("whitespace tokenizer"))) 。 {ref}/analysis-pattern-tokenizer.html[`正则` 分词器] 根据匹配正则表达式来分割文本 ((("pattern tokenizer"))) 。
 --
