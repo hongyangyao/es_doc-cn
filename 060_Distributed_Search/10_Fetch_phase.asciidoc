@@ -5,7 +5,7 @@
 
 [[img-distrib-fetch]]
 .分布式搜索的取回阶段
-image::images/elas_0902.png["分布式搜索的取回阶段"]
+image::../images/elas_0902.png["分布式搜索的取回阶段"]
 
 分布式阶段由以下步骤构成：
 
